@@ -3,14 +3,8 @@ const nextConfig = {
   images: {
     domains: ["tekai.ai"],
   },
-  async rewrites() {
-    return [
-      {
-        source: "/api/:path*",
-        destination: "http://localhost:8080/:path*", // Proxy to FastAPI backend
-      },
-    ];
-  },
+  // Removed API rewrites for production deployment
+  // The demo will show a message that API is not available in production
 };
 
 module.exports = nextConfig;
