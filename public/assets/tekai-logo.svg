@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Background -->
+  <rect width="200" height="60" fill="#2563eb" rx="8"/>
+  
+  <!-- Logo icon -->
+  <circle cx="25" cy="30" r="12" fill="#ffffff" opacity="0.9"/>
+  <path d="M20 30 L25 35 L30 25" stroke="#2563eb" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Text -->
+  <text x="45" y="23" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Tekai</text>
+  <text x="45" y="38" fill="#ffffff" font-family="Arial, sans-serif" font-size="10" opacity="0.8">.ai</text>
+  
+  <!-- Accent line -->
+  <line x1="45" y1="42" x2="85" y2="42" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+</svg>

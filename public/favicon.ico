@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Background -->
+  <rect width="32" height="32" fill="#2563eb" rx="4"/>
+  
+  <!-- Logo symbol -->
+  <circle cx="16" cy="16" r="8" fill="#ffffff" opacity="0.9"/>
+  <path d="M12 16 L16 20 L20 12" stroke="#2563eb" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

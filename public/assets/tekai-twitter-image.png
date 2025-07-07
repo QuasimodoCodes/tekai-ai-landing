@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+  <!-- Background -->
+  <rect width="1200" height="600" fill="#1f2937"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="80" fill="#2563eb"/>
+  <text x="50" y="50" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Tekai.ai</text>
+  
+  <!-- Main content -->
+  <text x="100" y="150" fill="#ffffff" font-family="Arial, sans-serif" font-size="36" font-weight="bold">AI That Transforms Research Into Action</text>
+  <text x="100" y="200" fill="#d1d5db" font-family="Arial, sans-serif" font-size="18">Powering the future of research accessibility, one project at a time</text>
+  
+  <!-- Features -->
+  <rect x="100" y="250" width="300" height="150" fill="#374151" rx="8"/>
+  <text x="250" y="280" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">WHO-Europe Project</text>
+  <text x="250" y="310" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Live research database</text>
+  <text x="250" y="330" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">34 documents processed</text>
+  <text x="250" y="350" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">90% confidence rate</text>
+  <text x="250" y="370" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">9 seconds processing</text>
+  
+  <rect x="450" y="250" width="300" height="150" fill="#374151" rx="8"/>
+  <text x="600" y="280" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">AI Platform</text>
+  <text x="600" y="310" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Advanced RAG system</text>
+  <text x="600" y="330" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Multi-modal processing</text>
+  <text x="600" y="350" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Semantic search</text>
+  <text x="600" y="370" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Real-time insights</text>
+  
+  <rect x="800" y="250" width="300" height="150" fill="#374151" rx="8"/>
+  <text x="950" y="280" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Future Applications</text>
+  <text x="950" y="310" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Healthcare research</text>
+  <text x="950" y="330" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Legal document analysis</text>
+  <text x="950" y="350" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Financial research</text>
+  <text x="950" y="370" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Academic studies</text>
+  
+  <!-- Footer -->
+  <rect x="0" y="520" width="1200" height="80" fill="#111827"/>
+  <text x="600" y="570" fill="#6b7280" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">© 2024 Tekai.ai - Transforming research into action</text>
+</svg>
